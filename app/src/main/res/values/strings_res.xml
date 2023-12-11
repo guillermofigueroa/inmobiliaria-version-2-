@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="String_buscar">BUSCAR</string>
+    <string name="String_ubicacion">Ubicacion</string>
+    <string name="String_operacion">Operacion</string>
+    <string name="String_inmueble">Inmueble</string>
+    <string name="String_search_prov">provincia</string>
+    <string name="String_search_ciu">ciudad</string>
+</resources>
